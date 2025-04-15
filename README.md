@@ -35,7 +35,16 @@
 
 ---
 
+## Media
+
+[Click here to view report in pdf](https://drive.google.com/file/d/1BYqOMgDabT5Qe3OFTuCQ0swak4lrzpbs/view?usp=sharing)
+
+[Click here to view 1 minute demonstartion on Campaign analysis](https://drive.google.com/file/d/1bGpvnsm3kAd5zuvHyerm-CDA93Fs3VsW/view?usp=sharing)
+
+---
+
 ## Analysis and Insights
+
 - Twitter and Facebook have ads running longer than other platforms, 52 and 47 weeks respectively with YouTube running ads for 28 weeks. The cost per conversion is lowest on 
 YouTube $2.7 followed by Twitter $14, they also generate the most revenue $29,000 and $28,000 respectively, this suggests that these platforms are better investments than others. 
 It's important to note that Google Ads has the highest cost per conversion $35 of but generates the least revenue ($8,000)
