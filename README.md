@@ -51,24 +51,24 @@ YouTube platform.
 
 ## Recommendations and Conclusion
 
-**Increase Investment in YouTube Ads**
+##### Increase Investment in YouTube Ads
 YouTube generated the highest revenue ($29,000) with the lowest cost per conversion ($2.72) and highest return on 
 investment, despite running for only 28 weeks. To maximize performance, it is recommended to extend ad run duration and 
 allocate more resources to YouTube campaigns.
 
-**Optimize Twitter Ad Spend**
+##### Optimize Twitter Ad Spend
 Twitter, the second-best platform in revenue generation ($28,000), had a significantly higher cost per conversion ($14.21) 
 despite its high conversion rate. This may be due to its longer campaign duration. To improve cost efficiency, it is 
 recommended to reduce ad runtime and experiment with optimized budget allocation to maintain performance while 
 lowering costs.
 
-**Analyze High-Performing Campaigns**
+##### Analyze High-Performing Campaigns
 Campaigns CID36 (0.10 conversion rate) and CID8 (0.9 conversion rate) contributed significantly to YouTube's success. 
 Additionally, CID8, CID9, CID3, and CID12 delivered the highest returns. A deeper analysis should be conducted to identify 
 key engagement drivers, such as ad creatives, messaging, audience targeting, and timing, to replicate success across future 
 campaigns.
 
-**Reduce Investment in Google Ads**
+##### Reduce Investment in Google Ads
 Google Ads is the worst-performing platform, with the lowest conversion rate (0.05) and lowest return (1.71) while 
 generating only $8,000 in revenue. Additionally, its high cost per conversion ($35) makes it an inefficient marketing channel. 
 It is recommended to reduce ad spend on this platform and explore alternative marketing strategies that offer better 
