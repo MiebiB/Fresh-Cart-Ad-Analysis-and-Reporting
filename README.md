@@ -36,13 +36,42 @@
 ---
 
 ## Analysis and Insights
-![image](https://github.com/user-attachments/assets/a25c0c1e-6bee-4d23-ba01-56292fee2661)
-![image](https://github.com/user-attachments/assets/781cd8ab-00ab-4576-a611-9e11650769ca)
+- Twitter and Facebook have ads running longer than other platforms, 52 and 47 weeks respectively with YouTube running ads for 28 weeks. The cost per conversion is lowest on 
+YouTube $2.7 followed by Twitter $14, they also generate the most revenue $29,000 and $28,000 respectively, this suggests that these platforms are better investments than others. 
+It's important to note that Google Ads has the highest cost per conversion $35 of but generates the least revenue ($8,000)
 
+- Twitter and YouTube have the highest conversion rate than other platforms. YouTube out performs with an impressive return on ads spent of $12.99, 3 times more than Twitter 
+which has the higher conversion rate.  This suggests that the cost spent on twitter ads need to be reduced to generate more returns.
+
+- Campaigns CID31 and CID36 had the highest conversion rates of 10% each, which suggests the content put out engaged the audience better. Campaigns CID8 and CID9 having 
+highest return on ads spent which suggests the platform used aided the receival of the content. Filtering reveals that ads with most returns (CID8, 9, 3, 12) all where placed on 
+YouTube platform.
 
 ---
 
-## Conclusion
-![image](https://github.com/user-attachments/assets/820bbe7c-0b26-4c94-b879-3bbb4b3a78b9)
+## Recommendations and Conclusion
+
+#### Increase Investment in YouTube Ads
+YouTube generated the highest revenue ($29,000) with the lowest cost per conversion ($2.72) and highest return on 
+investment, despite running for only 28 weeks. To maximize performance, it is recommended to extend ad run duration and 
+allocate more resources to YouTube campaigns.
+
+#### Optimize Twitter Ad Spend
+Twitter, the second-best platform in revenue generation ($28,000), had a significantly higher cost per conversion ($14.21) 
+despite its high conversion rate. This may be due to its longer campaign duration. To improve cost efficiency, it is 
+recommended to reduce ad runtime and experiment with optimized budget allocation to maintain performance while 
+lowering costs.
+
+#### Analyze High-Performing Campaigns
+Campaigns CID36 (0.10 conversion rate) and CID8 (0.9 conversion rate) contributed significantly to YouTube's success. 
+Additionally, CID8, CID9, CID3, and CID12 delivered the highest returns. A deeper analysis should be conducted to identify 
+key engagement drivers, such as ad creatives, messaging, audience targeting, and timing, to replicate success across future 
+campaigns.
+
+#### Reduce Investment in Google Ads
+Google Ads is the worst-performing platform, with the lowest conversion rate (0.05) and lowest return (1.71) while 
+generating only $8,000 in revenue. Additionally, its high cost per conversion ($35) makes it an inefficient marketing channel. 
+It is recommended to reduce ad spend on this platform and explore alternative marketing strategies that offer better 
+returns
 
 FreshCart should adopt a performance-based ad budget strategy—allocating more funds to high-yield platforms like YouTube, studying successful campaigns to replicate best practices, and phasing out or reworking underperforming channels like Google Ads.
